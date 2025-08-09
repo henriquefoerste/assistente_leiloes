@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33581",
+  "codigo_zuk": "33784",
+  "product_id": "206032",
+  "preco": "695685.43",
+  "tipo_imovel": "Sítio",
+  "uf": "SP",
+  "cidade": "Itatiba",
+  "bairro": "Bairro do Pinhal",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Sítio - Bairro do Pinhal - Itatiba/SP cod: 206032 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/itatiba/bairro-do-pinhal/rodovia-engenheiro-constancio-cintra-s-n%C2%BA/33581-206032",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/6bfe86c270c2a4381b5fdd368f938c7c.pdf",
+      "label": "Edital de venda",
+      "filename": "6bfe86c270c2a4381b5fdd368f938c7c.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:29:33"
+}

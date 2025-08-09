@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33580",
+  "codigo_zuk": "33785",
+  "product_id": "206031",
+  "preco": "175080.43",
+  "tipo_imovel": "Terreno",
+  "uf": "SP",
+  "cidade": "Itatiba",
+  "bairro": "Moenda",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Terreno - Moenda - Itatiba/SP cod: 206031 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/itatiba/moenda/rua-egidio-evangelista-s-n%C2%BA/33580-206031",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/2751a3c57bb1e0303bae6f052ea96115.pdf",
+      "label": "Edital de venda",
+      "filename": "2751a3c57bb1e0303bae6f052ea96115.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:30:39"
+}

@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33606",
+  "codigo_zuk": "33807",
+  "product_id": "206264",
+  "preco": "1761345.61",
+  "tipo_imovel": "Conjunto Comercial",
+  "uf": "SP",
+  "cidade": "Barueri",
+  "bairro": "Sítio Tamboré",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Conjunto Comercial - Sítio Tamboré - Barueri/SP cod: 206264 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/barueri/sitio-tambore/avenida-sagitario-138-198-278/33606-206264",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/b9937cc58316f6083cefc7182e23fb6e.pdf",
+      "label": "Edital de venda",
+      "filename": "b9937cc58316f6083cefc7182e23fb6e.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:31:29"
+}

@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33726",
+  "codigo_zuk": "33920",
+  "product_id": "207028",
+  "preco": "54607.57",
+  "tipo_imovel": "Residencial / Comercial",
+  "uf": "SP",
+  "cidade": "Valparaíso",
+  "bairro": "Centro",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Residencial / Comercial - Centro - Valparaíso/SP cod: 207028 | Zuk",
+  "endereco_completo": "Avenida 9 de Julho, 1026",
+  "url": "https://www.portalzuk.com.br/imovel/sp/valparaiso/centro/avenida-9-de-julho-1026/33726-207028",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/f27664d575640a4f3c789e1bcdff890e.pdf",
+      "label": "Edital de venda",
+      "filename": "f27664d575640a4f3c789e1bcdff890e.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:34:55"
+}

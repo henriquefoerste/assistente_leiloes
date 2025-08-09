@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33615",
+  "codigo_zuk": "33816",
+  "product_id": "206284",
+  "preco": "516227.25",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Vila Andrade",
+  "comitente": "Itaú Unibanco S/A ",
+  "titulo": "Leilão de Apartamento - Vila Andrade - São Paulo/SP cod: 206284 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/vila-andrade/rua-itatupa-107/33615-206284",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacao.portalzuk.com.br/I33816lote002edital.pdf?Expires=1759720692&Signature=C1zKFuoLDAdYWEmLLxhFlpNTFotg6Y9gR6isfNmp2diUCxCkClgQD3bWGeqAR1RgSKTgiLVeQEwTaFi0mkWoh9k6GE3HISiXSELAS4fYF9o2d6HW3oE-rksqVOGax4GfmCeS9Pec4XQOvrFXAWgJt6ssoMI9wPc9t75vKI6npUmnc5AT~-d0T4NURCuETMqXDP32VlTTpchU7PFmML-MGZOdBZ4O1N72U0XlLKAzOHdqsNn3EwybQylXXQf8yrPs8AqdweGXZGWAP69dmKxW9mwVzYTj9Z~Ivxc4Si37SQGGF3CzUhWb-jDw2HGXeaiU~L8S9RiwFQW8tNtbPn3nXg__&Key-Pair-Id=K1KJP2R1YISZT",
+      "label": "Edital de Venda do Imóvel",
+      "filename": "I33816lote002edital.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:18:16"
+}

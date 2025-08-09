@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33732",
+  "codigo_zuk": "33926",
+  "product_id": "207039",
+  "preco": "393174.48",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Águas da Prata",
+  "bairro": "Centro",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Centro - Águas da Prata/SP cod: 207039 | Zuk",
+  "endereco_completo": "Rua Doutor Zeca Ferreira , 199",
+  "url": "https://www.portalzuk.com.br/imovel/sp/aguas-da-prata/centro/rua-doutor-zeca-ferreira-199/33732-207039",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/2f6e296e00e97c3fb11a3ddd4f37b9b8.pdf",
+      "label": "Edital de venda",
+      "filename": "2f6e296e00e97c3fb11a3ddd4f37b9b8.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:32:51"
+}

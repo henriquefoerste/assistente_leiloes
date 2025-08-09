@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33608",
+  "codigo_zuk": "33809",
+  "product_id": "206266",
+  "preco": "3783860.9",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Pacaembu",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Pacaembu - São Paulo/SP cod: 206266 | Zuk",
+  "endereco_completo": "Rua Itápolis, 1248",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/pacaembu/rua-itapolis-1248/33608-206266",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/d5d3d698be96b7b0817b1d1b8d12b248.pdf",
+      "label": "Edital de venda",
+      "filename": "d5d3d698be96b7b0817b1d1b8d12b248.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:16:38"
+}

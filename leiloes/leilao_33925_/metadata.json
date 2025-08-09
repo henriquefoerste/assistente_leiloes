@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33731",
+  "codigo_zuk": "33925",
+  "product_id": "207038",
+  "preco": "177180.78",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "Franca",
+  "bairro": "Vila Santa Cruz",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Vila Santa Cruz - Franca/SP cod: 207038 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/franca/vila-santa-cruz/avenida-santa-cruz-3255/33731-207038",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/58fe9918a7e5954f193e1aedbe8ec3b1.pdf",
+      "label": "Edital de venda",
+      "filename": "58fe9918a7e5954f193e1aedbe8ec3b1.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:36:33"
+}

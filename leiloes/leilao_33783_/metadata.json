@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33578",
+  "codigo_zuk": "33783",
+  "product_id": "206007",
+  "preco": "143597.42",
+  "tipo_imovel": "Terreno",
+  "uf": "SP",
+  "cidade": "Itatiba",
+  "bairro": "Moenda",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Terreno - Moenda - Itatiba/SP cod: 206007 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/itatiba/moenda/rua-olivio-alves-ferreira-s-n%C2%BA/33578-206007",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/329e6533ba2cb8180114ae51d380243d.pdf",
+      "label": "Edital de venda",
+      "filename": "329e6533ba2cb8180114ae51d380243d.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:30:27"
+}

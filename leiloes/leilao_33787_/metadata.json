@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33583",
+  "codigo_zuk": "33787",
+  "product_id": "206034",
+  "preco": "185437.32",
+  "tipo_imovel": "Terreno",
+  "uf": "SP",
+  "cidade": "Itatiba",
+  "bairro": "Loteamento Residencial Ventura",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Terreno - Loteamento Residencial Ventura - Itatiba/SP cod: 206034 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/itatiba/loteamento-residencial-ventura/rua-emerenciana-reis-junqueira-s-n%C2%BA/33583-206034",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/246f65d3a855cb5769695da3a01d424b.pdf",
+      "label": "Edital de venda",
+      "filename": "246f65d3a855cb5769695da3a01d424b.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:30:01"
+}

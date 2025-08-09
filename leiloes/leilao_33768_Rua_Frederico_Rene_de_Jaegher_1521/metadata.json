@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33563",
+  "codigo_zuk": "33768",
+  "product_id": "205928",
+  "preco": "160505.59",
+  "tipo_imovel": "Imóvel Comercial",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Rio Bonito",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Imóvel Comercial - Rio Bonito - São Paulo/SP cod: 205928 | Zuk",
+  "endereco_completo": "Rua Frederico Rene de Jaegher, 1521",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/rio-bonito/rua-frederico-rene-de-jaegher-1521/33563-205928",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/ab6edf58f9325409287139ca8916e2a1.pdf",
+      "label": "Edital de venda",
+      "filename": "ab6edf58f9325409287139ca8916e2a1.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:21:43"
+}

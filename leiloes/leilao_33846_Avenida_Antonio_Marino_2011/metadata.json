@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33645",
+  "codigo_zuk": "33846",
+  "product_id": "206364",
+  "preco": "151657.14",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "General Salgado",
+  "bairro": "Centro",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Centro - General Salgado/SP cod: 206364 | Zuk",
+  "endereco_completo": "Avenida Antonio Marino , 2011",
+  "url": "https://www.portalzuk.com.br/imovel/sp/general-salgado/centro/avenida-antonio-marino-2011/33645-206364",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/31add3b9ed43807b16f84d465d35ce5d.pdf",
+      "label": "Edital de venda",
+      "filename": "31add3b9ed43807b16f84d465d35ce5d.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:19:46"
+}

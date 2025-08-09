@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33626",
+  "codigo_zuk": "33828",
+  "product_id": "206320",
+  "preco": "481408.58",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Jardim Primavera",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Jardim Primavera - São Paulo/SP cod: 206320 | Zuk",
+  "endereco_completo": "Avenida Gregório Bezerra, 243",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/jardim-primavera/avenida-gregorio-bezerra-243/33626-206320",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/0b14ce93990b44991e93469ae39f0825.pdf",
+      "label": "Edital de venda",
+      "filename": "0b14ce93990b44991e93469ae39f0825.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:18:51"
+}

@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33575",
+  "codigo_zuk": "33780",
+  "product_id": "205991",
+  "preco": "179135.19",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "São José dos Campos",
+  "bairro": "Jardim Mariana II",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Jardim Mariana II - São José dos Campos/SP cod: 205991 | Zuk",
+  "endereco_completo": "Rua Benedicto Rezende de Souza, 141",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-jose-dos-campos/jardim-mariana-ii/rua-benedicto-rezende-de-souza-141/33575-205991",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/24cd83bd0f145955ddbde21f16d36d90.pdf",
+      "label": "Edital de venda",
+      "filename": "24cd83bd0f145955ddbde21f16d36d90.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:27:56"
+}

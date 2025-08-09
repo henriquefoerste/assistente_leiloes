@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33740",
+  "codigo_zuk": "33935",
+  "product_id": "207081",
+  "preco": "72065.89",
+  "tipo_imovel": "Terreno",
+  "uf": "SP",
+  "cidade": "Adamantina",
+  "bairro": "Residencial Boa Vista",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Terreno - Residencial Boa Vista - Adamantina/SP cod: 207081 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/adamantina/residencial-boa-vista/rua-general-isidoro-s-n%C2%BA/33740-207081",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/a0e4b62b657e4c960c5940ecdcc51469.pdf",
+      "label": "Edital de venda",
+      "filename": "a0e4b62b657e4c960c5940ecdcc51469.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:12:36"
+}

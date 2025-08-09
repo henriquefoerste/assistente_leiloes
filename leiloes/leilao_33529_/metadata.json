@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33300",
+  "codigo_zuk": "33529",
+  "product_id": "206573",
+  "preco": "1516490.73",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Cotia",
+  "bairro": "Jardim Colibri",
+  "comitente": "Banco Santander Brasil S/A",
+  "titulo": "Leilão de Casa - Jardim Colibri - Cotia/SP cod: 206573 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/cotia/jardim-colibri/via-das-grinaldas-306/33300-206573",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacao.portalzuk.com.br/I33529lote027edital.pdf?Expires=1759721192&Signature=vEOKwEYkBhnjmsFUmBSLtvhGGmOlFTx3rCEsyo3YA4peWFA2AVXAWUfwsXnl1mHSp8SqVt~JM8F~GZjiNnsc0ceMF6CtCr7cltVkKkdXfeAm6J2O3XmgxES4wSImFA2VbRiV6FHOrmwqXpAI7lgzR05mVz6ZM19CReIYL-~r4a4b9ONdzHY4jpGr3chsTx1vxkk0aB3PaaXeVrbZtFGPX-VtM3rKZCYj2-P4BxQGKpKABp80Tp2vgZiGtEXIcZJCQsgiLkoedZgmpNJQWe3vyc8dzmHIBHbmSSmXj5eE8EcuIiEdKp-K63otDFiC8q55uiHZUZG1JPtpbiqrbsC9wg__&Key-Pair-Id=K1KJP2R1YISZT",
+      "label": "Edital de Venda do Imóvel",
+      "filename": "I33529lote027edital.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:26:39"
+}

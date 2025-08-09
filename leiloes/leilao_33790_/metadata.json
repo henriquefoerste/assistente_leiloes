@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33588",
+  "codigo_zuk": "33790",
+  "product_id": "206195",
+  "preco": "92735.15",
+  "tipo_imovel": "Terreno",
+  "uf": "SP",
+  "cidade": "Itatiba",
+  "bairro": "Vivendas do Engenho DÁgua",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Terreno - Vivendas do Engenho D'Água - Itatiba/SP cod: 206195 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/itatiba/vivendas-do-engenho-d'agua/rua-braulio-augusto-bianco-s-n%C2%BA/33588-206195",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/49f13f41691998921a2b90d0e73e9930.pdf",
+      "label": "Edital de venda",
+      "filename": "49f13f41691998921a2b90d0e73e9930.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:30:51"
+}

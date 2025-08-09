@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33710",
+  "codigo_zuk": "33907",
+  "product_id": "206951",
+  "preco": "9537965.03",
+  "tipo_imovel": "Sítio",
+  "uf": "SP",
+  "cidade": "Elias Fausto",
+  "bairro": "Queluz",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Sítio - Queluz - Elias Fausto/SP cod: 206951 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/elias-fausto/queluz/estrada-municipal-s-n%C2%BA/33710-206951",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/026ca5cf5b06a93650500c9725f198f8.pdf",
+      "label": "Edital de venda",
+      "filename": "026ca5cf5b06a93650500c9725f198f8.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:28:25"
+}

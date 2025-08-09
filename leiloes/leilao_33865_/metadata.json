@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33663",
+  "codigo_zuk": "33865",
+  "product_id": "206538",
+  "preco": "277103.76",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "São José dos Campos",
+  "bairro": "Floradas de São José",
+  "comitente": "Itaú Unibanco S/A ",
+  "titulo": "Leilão de Apartamento - Floradas de São José - São José dos Campos/SP cod: 206538 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-jose-dos-campos/floradas-de-sao-jose/rua-francisca-maria-de-jesus-148/33663-206538",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacao.portalzuk.com.br/I33865lote001edital.pdf?Expires=1759721550&Signature=vH9hmlw5PO8GFaydQlgpfACj3Qj7SEkhRdVzFkuhXHUWfxXQ9SQLlml3XaCiG971WN2bNF1rRsjYlTTtW~LgSUXdZjsqUBJ2CXymnfeqGMnx~~BHDkDigFrojV89e5uW-tPc0vRPq50WdEyumKYmUY6N~4~vWNqJJxhAPa99BYRR925DH7M4h0EQQDR8J0~nGsS9n~RcrAOVc~bciDJX32SQ6a6vpIAhdQIBPfQ7yqQwKOE7nsy60m3j2Q0pXGgJvZh6Coe3laFZuUL4XGafgOQCCb~6Q2EpJsMhPKtAcN0hk2RCd-0N3gUA6caPGUM8sCRekRgMJhZi~A4q~d0K5g__&Key-Pair-Id=K1KJP2R1YISZT",
+      "label": "Edital de Venda do Imóvel",
+      "filename": "I33865lote001edital.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:32:37"
+}

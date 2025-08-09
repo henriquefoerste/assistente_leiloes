@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33746",
+  "codigo_zuk": "33941",
+  "product_id": "207087",
+  "preco": "1170397.95",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Vila Regente Feijó",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Vila Regente Feijó - São Paulo/SP cod: 207087 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/vila-regente-feijo/rua-bento-goncalves-298/33746-207087",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/d31807ff62428eb9bd6e95eaf88b29fb.pdf",
+      "label": "Edital de venda",
+      "filename": "d31807ff62428eb9bd6e95eaf88b29fb.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:13:07"
+}

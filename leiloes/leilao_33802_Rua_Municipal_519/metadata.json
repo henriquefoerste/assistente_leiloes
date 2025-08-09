@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33601",
+  "codigo_zuk": "33802",
+  "product_id": "206248",
+  "preco": "388445.08",
+  "tipo_imovel": "Posto de Combustível",
+  "uf": "SP",
+  "cidade": "Mineiros do Tietê",
+  "bairro": "Centro",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Posto de Combustível - Centro - Mineiros do Tietê/SP cod: 206248 | Zuk",
+  "endereco_completo": "Rua Municipal, 519",
+  "url": "https://www.portalzuk.com.br/imovel/sp/mineiros-do-tiete/centro/rua-municipal-519/33601-206248",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/01afe74fac204e68b156fa0949a2f21f.pdf",
+      "label": "Edital de venda",
+      "filename": "01afe74fac204e68b156fa0949a2f21f.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:33:34"
+}

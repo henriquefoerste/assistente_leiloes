@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33609",
+  "codigo_zuk": "33810",
+  "product_id": "206268",
+  "preco": "264009.64",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "São José dos Campos",
+  "bairro": "Cidade Morumbi",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Cidade Morumbi - São José dos Campos/SP cod: 206268 | Zuk",
+  "endereco_completo": "Rua Luiz Fernandes, 541",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-jose-dos-campos/cidade-morumbi/rua-luiz-fernandes-541/33609-206268",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/6cd025d37a4d553bab4236bfb8d5422e.pdf",
+      "label": "Edital de venda",
+      "filename": "6cd025d37a4d553bab4236bfb8d5422e.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:16:49"
+}

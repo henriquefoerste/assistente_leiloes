@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33679",
+  "codigo_zuk": "33879",
+  "product_id": "206732",
+  "preco": "177273.4",
+  "tipo_imovel": "Casas",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Vila Bonilha",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casas - Vila Bonilha - São Paulo/SP cod: 206732 | Zuk",
+  "endereco_completo": "Rua Agostinho de Barros, 118",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/vila-bonilha/rua-agostinho-de-barros-118/33679-206732",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/312a994e6d2e7200077520e474a6ff3c.pdf",
+      "label": "Edital de venda",
+      "filename": "312a994e6d2e7200077520e474a6ff3c.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:20:29"
+}

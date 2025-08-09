@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33742",
+  "codigo_zuk": "33937",
+  "product_id": "207083",
+  "preco": "867920.27",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Osasco",
+  "bairro": "Bela Vista",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Bela Vista - Osasco/SP cod: 207083 | Zuk",
+  "endereco_completo": "Rua Rubens do Amaral, 352",
+  "url": "https://www.portalzuk.com.br/imovel/sp/osasco/bela-vista/rua-rubens-do-amaral-352/33742-207083",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/1ec7b1d4d2d67a9dd4da3f834b111bbb.pdf",
+      "label": "Edital de venda",
+      "filename": "1ec7b1d4d2d67a9dd4da3f834b111bbb.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:12:46"
+}

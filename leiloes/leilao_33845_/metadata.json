@@ -1,0 +1,28 @@
+{
+  "leilao_id": "33643",
+  "codigo_zuk": "33845",
+  "product_id": "206360",
+  "preco": "521207.04",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Jacareí",
+  "bairro": "Jardim Mesquita",
+  "comitente": "Banco Bradesco S/A",
+  "titulo": "Leilão de Casa - Jardim Mesquita - Jacareí/SP cod: 206360 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/jacarei/jardim-mesquita/rua-mogi-mirim-169/33643-206360",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/7f943c9d72df280c15db6fe3cec35e2c.pdf",
+      "label": "Edital de venda",
+      "filename": "7f943c9d72df280c15db6fe3cec35e2c.pdf"
+    },
+    {
+      "url": "https://documentacao.portalzuk.com.br/I33845lote001edital.pdf?Expires=1759721254&Signature=pEkzvAk8KljJdkQNiTGgzWC6qkI2rUcG9w0En3BsvjgkqpE4sqY0IpfDE1nURyWPYl02tztzfO7siCn2I~wp5oGqHS7OM36c~Ee7AnmrzR6nlA73pU4laXrQiXZyrUzAtV88qEYfrBlguzWC9D9Syrb7MCG9EeT-3noGlOLSe0lTbuV0ilvq9Lu43UfLPCH9dyLol48WJRBD9vsPshM60z68xhzsai7rw56MdA2wdOKhDd3A2hCxTnCZ8VomATx6hpf22wMC8ZF1QwdSd0L-54nYGEv2aEw0g8-iO0lKLXtt1tPuLPUOqEV~mEodWXNsuD3pjF8Dg6wirE6xxLwibA__&Key-Pair-Id=K1KJP2R1YISZT",
+      "label": "Edital de Venda do Imóvel",
+      "filename": "I33845lote001edital.pdf"
+    }
+  ],
+  "total_documentos": 2,
+  "data_extracao": "2025-08-06 00:27:41"
+}

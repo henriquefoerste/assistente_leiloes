@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33736",
+  "codigo_zuk": "33930",
+  "product_id": "207064",
+  "preco": "554842.95",
+  "tipo_imovel": "Sítio",
+  "uf": "SP",
+  "cidade": "Vera Cruz",
+  "bairro": "Fazenda Ribeirão da Garça/Colônia Portuguesa",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Sítio - Fazenda Ribeirão da Garça/Colônia Portuguesa - Vera Cruz/SP cod: 207064 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/vera-cruz/fazenda-ribeirao-da-garca-colonia-portuguesa/rodovia-sp-294-s-n%C2%BA/33736-207064",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/af74dc15dbb1b5725bc1ca73bdb1b93f.pdf",
+      "label": "Edital de venda",
+      "filename": "af74dc15dbb1b5725bc1ca73bdb1b93f.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:12:14"
+}

@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33743",
+  "codigo_zuk": "33938",
+  "product_id": "207084",
+  "preco": "595058.3",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Vargem",
+  "bairro": "Centro",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Centro - Vargem/SP cod: 207084 | Zuk",
+  "endereco_completo": "Rua João Salvador, 605",
+  "url": "https://www.portalzuk.com.br/imovel/sp/vargem/centro/rua-joao-salvador-605/33743-207084",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/774bf6a6c1ddee5dabd0e856c3f52f53.pdf",
+      "label": "Edital de venda",
+      "filename": "774bf6a6c1ddee5dabd0e856c3f52f53.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:34:15"
+}

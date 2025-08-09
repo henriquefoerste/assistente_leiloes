@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33725",
+  "codigo_zuk": "33919",
+  "product_id": "207027",
+  "preco": "232995.75",
+  "tipo_imovel": "Terreno",
+  "uf": "SP",
+  "cidade": "Caraguatatuba",
+  "bairro": "Balneário Gardem Mar",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Terreno - Balneário Gardem Mar - Caraguatatuba/SP cod: 207027 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/caraguatatuba/balneario-gardem-mar/rua-c-s-n%C2%BA/33725-207027",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/59234d380604ec1bc602e2ce1c120eac.pdf",
+      "label": "Edital de venda",
+      "filename": "59234d380604ec1bc602e2ce1c120eac.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:13:39"
+}

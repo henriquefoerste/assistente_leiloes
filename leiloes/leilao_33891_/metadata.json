@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33691",
+  "codigo_zuk": "33891",
+  "product_id": "206773",
+  "preco": "1284547.57",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Mooca",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Mooca - São Paulo/SP cod: 206773 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/mooca/avenida-paes-de-barros-828/33691-206773",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/cbcd5429a80b22ea76e9415cedcdce7e.pdf",
+      "label": "Edital de venda",
+      "filename": "cbcd5429a80b22ea76e9415cedcdce7e.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:23:32"
+}

@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33571",
+  "codigo_zuk": "33775",
+  "product_id": "205956",
+  "preco": "483335.18",
+  "tipo_imovel": "Área Rural",
+  "uf": "SP",
+  "cidade": "Pedra Bela",
+  "bairro": "Araras dos Binos",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Área Rural - Araras dos Binos - Pedra Bela/SP cod: 205956 | Zuk",
+  "endereco_completo": "Fazenda Campo Alegre, s/nº",
+  "url": "https://www.portalzuk.com.br/imovel/sp/pedra-bela/araras-dos-binos/fazenda-campo-alegre-s-n%C2%BA/33571-205956",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/da8213d76e6d9d2b24a92396fb885a9b.pdf",
+      "label": "Edital de venda",
+      "filename": "da8213d76e6d9d2b24a92396fb885a9b.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:27:16"
+}

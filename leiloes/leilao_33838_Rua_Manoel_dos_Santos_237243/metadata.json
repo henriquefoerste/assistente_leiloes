@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33636",
+  "codigo_zuk": "33838",
+  "product_id": "206343",
+  "preco": "85712.29",
+  "tipo_imovel": "Casas",
+  "uf": "SP",
+  "cidade": "Dumont",
+  "bairro": "Jardim Bela Vista I",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casas - Jardim Bela Vista I - Dumont/SP cod: 206343 | Zuk",
+  "endereco_completo": "Rua Manoel dos Santos , 237/243",
+  "url": "https://www.portalzuk.com.br/imovel/sp/dumont/jardim-bela-vista-i/rua-manoel-dos-santos-237-243/33636-206343",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/dbe58b2da2c2b2b13632af9b7f7dc6dd.pdf",
+      "label": "Edital de venda",
+      "filename": "dbe58b2da2c2b2b13632af9b7f7dc6dd.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:19:13"
+}

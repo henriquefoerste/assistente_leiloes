@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33661",
+  "codigo_zuk": "33862",
+  "product_id": "206741",
+  "preco": "2526003.85",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "São Bernardo do Campo",
+  "bairro": "Centro",
+  "comitente": "Itaú Unibanco S/A ",
+  "titulo": "Leilão de Apartamento - Centro - São Bernardo do Campo/SP cod: 206741 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-bernardo-do-campo/centro/avenida-aldino-pinotti-500/33661-206741",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacao.portalzuk.com.br/I33862lote002edital.pdf?Expires=1759720436&Signature=NvW7Ep0m73s6c2u8xdSdqlMeiUBRxlLDmiaXUurDOMABiT8nssFQj7y5zzHPeWr~ipkh3R5PCrqJMnIp~QFO3z36SqP-T0tDl9JIUEscbvNT9TZXnIuKJn2v0KScwqPYK-LaJqq-ZVwS0TEVP76hlgzP0G4dWCoTuRjvjajCCX3T2zp7ewjmdfkRTFDqEYAARNX3rPzO6D-DC1caeDobB5RcJkHAI3KUMe3TTS13cmI6jnMvCzojlnqLCoImNc1dyUZActY6vpVn69vIxbt3r8USwGTT7MosWmYuD9UO53rMYg2o-G3emo0CVFPAM5HKyTIDhSOmSF3QzKRQxjYCUQ__&Key-Pair-Id=K1KJP2R1YISZT",
+      "label": "Edital de Venda do Imóvel",
+      "filename": "I33862lote002edital.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:14:00"
+}

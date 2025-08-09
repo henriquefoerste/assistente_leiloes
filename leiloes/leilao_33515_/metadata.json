@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33287",
+  "codigo_zuk": "33515",
+  "product_id": "203736",
+  "preco": "148764.88",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Vila Independência",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Vila Independência - São Paulo/SP cod: 203736 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/vila-independencia/rua-ribeiropolis-532/33287-203736",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/05/5fe429dfc9ee5c6c712dce648825b09f.pdf",
+      "label": "Edital de venda",
+      "filename": "5fe429dfc9ee5c6c712dce648825b09f.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:23:21"
+}

@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33733",
+  "codigo_zuk": "33927",
+  "product_id": "207040",
+  "preco": "234449.81",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Araras",
+  "bairro": "Parque Tiradentes",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Parque Tiradentes - Araras/SP cod: 207040 | Zuk",
+  "endereco_completo": "Rua Olivério Morgado, 446",
+  "url": "https://www.portalzuk.com.br/imovel/sp/araras/parque-tiradentes/rua-oliverio-morgado-446/33733-207040",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/da3ec95dd282872cb5f58217c62c8e9d.pdf",
+      "label": "Edital de venda",
+      "filename": "da3ec95dd282872cb5f58217c62c8e9d.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:33:05"
+}

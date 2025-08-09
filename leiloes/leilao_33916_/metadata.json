@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33721",
+  "codigo_zuk": "33916",
+  "product_id": "207018",
+  "preco": "256732.96",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Vila Suzana",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Vila Suzana - São Paulo/SP cod: 207018 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/vila-suzana/rua-doutor-oscar-monteiro-de-barros-511/33721-207018",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/6082d94b391d8d17fa1a1e80b6af39c7.pdf",
+      "label": "Edital de venda",
+      "filename": "6082d94b391d8d17fa1a1e80b6af39c7.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:13:18"
+}

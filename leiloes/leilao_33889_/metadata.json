@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33689",
+  "codigo_zuk": "33889",
+  "product_id": "206764",
+  "preco": "250390.74",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Centro",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Centro - São Paulo/SP cod: 206764 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/centro/avenida-casper-libero-623/33689-206764",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/e4c9134a5b2fe440602e1aa5b5394d2a.pdf",
+      "label": "Edital de venda",
+      "filename": "e4c9134a5b2fe440602e1aa5b5394d2a.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:22:49"
+}

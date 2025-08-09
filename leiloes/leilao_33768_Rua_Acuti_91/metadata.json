@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33563",
+  "codigo_zuk": "33768",
+  "product_id": "205931",
+  "preco": "40214.36",
+  "tipo_imovel": "Imóvel Comercial",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Cidade Dutra",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Imóvel Comercial - Cidade Dutra - São Paulo/SP cod: 205931 | Zuk",
+  "endereco_completo": "Rua Acuti, 91",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/cidade-dutra/rua-acuti-91/33563-205931",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/ab6edf58f9325409287139ca8916e2a1.pdf",
+      "label": "Edital de venda",
+      "filename": "ab6edf58f9325409287139ca8916e2a1.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:22:16"
+}

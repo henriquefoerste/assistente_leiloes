@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33614",
+  "codigo_zuk": "33815",
+  "product_id": "206282",
+  "preco": "231561.41",
+  "tipo_imovel": "Sobrado",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Conjunto Residencial Prestes Maia",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Sobrado - Conjunto Residencial Prestes Maia - São Paulo/SP cod: 206282 | Zuk",
+  "endereco_completo": "Rua Aniceto de Souza Lopes, 42",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/conjunto-residencial-prestes-maia/rua-aniceto-de-souza-lopes-42/33614-206282",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/0a64c6cfaa2bf60962103d3e2a1a1621.pdf",
+      "label": "Edital de venda",
+      "filename": "0a64c6cfaa2bf60962103d3e2a1a1621.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:18:05"
+}

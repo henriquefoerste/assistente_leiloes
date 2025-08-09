@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33770",
+  "codigo_zuk": "33962",
+  "product_id": "207223",
+  "preco": "240273.29",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Guaimbê",
+  "bairro": "Centro",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Centro - Guaimbê/SP cod: 207223 | Zuk",
+  "endereco_completo": "Rua Rui Barbosa, 14",
+  "url": "https://www.portalzuk.com.br/imovel/sp/guaimbe/centro/rua-rui-barbosa-14/33770-207223",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/08/82b4dde76bac9eca97b30df3ee017b7c.pdf",
+      "label": "Edital de venda",
+      "filename": "82b4dde76bac9eca97b30df3ee017b7c.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:19:57"
+}

@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33662",
+  "codigo_zuk": "33864",
+  "product_id": "206540",
+  "preco": "833000",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "Guarulhos",
+  "bairro": "Vila Augusta",
+  "comitente": "Itaú Unibanco S/A ",
+  "titulo": "Leilão de Apartamento - Vila Augusta - Guarulhos/SP cod: 206540 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/guarulhos/vila-augusta/rua-rui-barbosa-83/33662-206540",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacao.portalzuk.com.br/I33864lote002edital.pdf?Expires=1759721728&Signature=x2mP9syjHYKzQkax3lKP6wq3IWph4uE08wqo9xi1SHfHIQ6soUZxqu6JHd-Q2JgLBAMst68DEXHx~PF4n6NmueJVEs-l4gNxUyhSheZjiIivPcECuEUUBn0Lvg3teqzfy7K3T35bhime4U7x-HYNNdnpkO8h2NGLobJicgwZd0nHkk-1H4OtPyahzCTGZsuhbOvrM9mLjSXFePFLJdJUnAUeX4NtbMMBNpHztI0AOfUMFyneqLz3wjdjjGqyPznbjiiI4bxdq1H2jNPD9mLqv~IyzNX8x58Z7lxfdbRdCJeH3k47VzikqvzQjQ~k61sViHBGM70I7gSin6CYTVx3Fg__&Key-Pair-Id=K1KJP2R1YISZT",
+      "label": "Edital de Venda do Imóvel",
+      "filename": "I33864lote002edital.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:35:34"
+}

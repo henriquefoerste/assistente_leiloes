@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33668",
+  "codigo_zuk": "33869",
+  "product_id": "206575",
+  "preco": "2334779.39",
+  "tipo_imovel": "Apartamento (Cobertura)",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Saúde",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento (Cobertura) - Saúde - São Paulo/SP cod: 206575 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/saude/rua-loreto-96/33668-206575",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/7bc93022dd7a15eab6e61c77002eaab1.pdf",
+      "label": "Edital de venda",
+      "filename": "7bc93022dd7a15eab6e61c77002eaab1.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:20:50"
+}

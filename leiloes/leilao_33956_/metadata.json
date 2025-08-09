@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33761",
+  "codigo_zuk": "33956",
+  "product_id": "207154",
+  "preco": "221839.39",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "Guarulhos",
+  "bairro": "Vila Alzira",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Vila Alzira - Guarulhos/SP cod: 207154 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/guarulhos/vila-alzira/avenida-maria-ricci-perrota-101/33761-207154",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/08/19c32ad69da15f0efa1667cd9099d996.pdf",
+      "label": "Edital de venda",
+      "filename": "19c32ad69da15f0efa1667cd9099d996.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:17:00"
+}

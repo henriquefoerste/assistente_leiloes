@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33722",
+  "codigo_zuk": "33917",
+  "product_id": "207019",
+  "preco": "325914.72",
+  "tipo_imovel": "Imóvel Residencial",
+  "uf": "SP",
+  "cidade": "Cajati",
+  "bairro": "Vila Antunes",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Imóvel Residencial - Vila Antunes - Cajati/SP cod: 207019 | Zuk",
+  "endereco_completo": "Avenida João Felizardo , 224",
+  "url": "https://www.portalzuk.com.br/imovel/sp/cajati/vila-antunes/avenida-joao-felizardo-224/33722-207019",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/218e79fda85f53fde75556ae1938266f.pdf",
+      "label": "Edital de venda",
+      "filename": "218e79fda85f53fde75556ae1938266f.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:31:41"
+}

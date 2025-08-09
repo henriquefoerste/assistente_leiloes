@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33598",
+  "codigo_zuk": "33800",
+  "product_id": "206236",
+  "preco": "903503.31",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Atibaia",
+  "bairro": "Parque Residencial Atibaia - Mato Dentro",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Parque Residencial Atibaia - Mato Dentro - Atibaia/SP cod: 206236 | Zuk",
+  "endereco_completo": "Alameda Roberto de Assis Silva Trofino, 117",
+  "url": "https://www.portalzuk.com.br/imovel/sp/atibaia/parque-residencial-atibaia-_-mato-dentro/alameda-roberto-de-assis-silva-trofino-117/33598-206236",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/6671f717329bb61890deedd93d3cf858.pdf",
+      "label": "Edital de venda",
+      "filename": "6671f717329bb61890deedd93d3cf858.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:36:45"
+}

@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33554",
+  "codigo_zuk": "33758",
+  "product_id": "206536",
+  "preco": "369777.71",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Limeira",
+  "bairro": "Parque Hippolyto",
+  "comitente": "Itaú Unibanco S/A ",
+  "titulo": "Leilão de Casa - Parque Hippolyto - Limeira/SP cod: 206536 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/limeira/parque-hippolyto/rua-doutor-fernando-costa-438/33554-206536",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacao.portalzuk.com.br/I33758lote003edital.pdf?Expires=1759721340&Signature=ZegLNPckxxyqhzWRoipq370h8biWX-SAB~EaVic9YE9-FEnuJ3LN6Ptm1c6AOTU6QRA2cpyyioplv1WB0S5N4KQbTAfiFEG04hWKRS1G-sug2iZlrGOTBFtE-FPEoJNGbXdVYaknn6WiBGssLlptqjyVIG8nN1vSrAw5OCTxj5UoaJbvhgH7UZv6jyRJFZUQ5eo5EHxqNqjL66KZigP~cJBFciSoi9TqiC7f0p8qMqRgHpIImaCvNJZxuAMGn5ggNM5EePIvPcP74L4g12E5kf-ANWmzqQRvhv5cR6hi-CuRGOBEpxp3Z8~xwjJYHHa-SSAbX-DE8PdW5ik1dREEIA__&Key-Pair-Id=K1KJP2R1YISZT",
+      "label": "Edital de Venda do Imóvel",
+      "filename": "I33758lote003edital.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:29:08"
+}

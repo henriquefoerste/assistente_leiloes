@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33596",
+  "codigo_zuk": "33798",
+  "product_id": "206223",
+  "preco": "107893.64",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "Poá",
+  "bairro": "Vila Perracini",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Vila Perracini - Poá/SP cod: 206223 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/poa/vila-perracini/rua-waldemar-aquilino-de-freitas-301/33596-206223",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/cc1e6392e39d7b9477a2c91acd3dde60.pdf",
+      "label": "Edital de venda",
+      "filename": "cc1e6392e39d7b9477a2c91acd3dde60.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:31:55"
+}

@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33526",
+  "codigo_zuk": "33734",
+  "product_id": "205544",
+  "preco": "9691221.64",
+  "tipo_imovel": "Imóvel Residencial",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Jardim das Laranjeiras",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Imóvel Residencial - Jardim das Laranjeiras - São Paulo/SP cod: 205544 | Zuk",
+  "endereco_completo": "Avenida Professora Ida Kolb, 225",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/jardim-das-laranjeiras/avenida-professora-ida-kolb-225/33526-205544",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/fea05f363688fc3e0efdce1ee667aa12.pdf",
+      "label": "Edital de venda",
+      "filename": "fea05f363688fc3e0efdce1ee667aa12.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:15:42"
+}

@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33636",
+  "codigo_zuk": "33838",
+  "product_id": "206342",
+  "preco": "214280.72",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Dumont",
+  "bairro": "Jardim Bela Vista I",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Jardim Bela Vista I - Dumont/SP cod: 206342 | Zuk",
+  "endereco_completo": "Rua Pedro Farinasso , 283",
+  "url": "https://www.portalzuk.com.br/imovel/sp/dumont/jardim-bela-vista-i/rua-pedro-farinasso-283/33636-206342",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/dbe58b2da2c2b2b13632af9b7f7dc6dd.pdf",
+      "label": "Edital de venda",
+      "filename": "dbe58b2da2c2b2b13632af9b7f7dc6dd.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:19:02"
+}

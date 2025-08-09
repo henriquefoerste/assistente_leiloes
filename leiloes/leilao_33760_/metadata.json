@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33556",
+  "codigo_zuk": "33760",
+  "product_id": "205910",
+  "preco": "206316.36",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Vila Jaguara",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Vila Jaguara - São Paulo/SP cod: 205910 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/vila-jaguara/rua-cachoeira-do-sul-271/33556-205910",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/f58c6ed21fa5e8e9b39915fad7939ba2.pdf",
+      "label": "Edital de venda",
+      "filename": "f58c6ed21fa5e8e9b39915fad7939ba2.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:21:01"
+}

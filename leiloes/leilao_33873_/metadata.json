@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33672",
+  "codigo_zuk": "33873",
+  "product_id": "206581",
+  "preco": "1080263.07",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Vila Andrade",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Vila Andrade - São Paulo/SP cod: 206581 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/vila-andrade/rua-alcantarilla-150/33672-206581",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/18852d1302f7ee8a5eec9eeae6091ab1.pdf",
+      "label": "Edital de venda",
+      "filename": "18852d1302f7ee8a5eec9eeae6091ab1.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:20:40"
+}

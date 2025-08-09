@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33748",
+  "codigo_zuk": "33943",
+  "product_id": "207089",
+  "preco": "3312621.97",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Santana de Parnaíba",
+  "bairro": "Paiol Velho",
+  "comitente": "GALLERIA HOME EQUITY FIDC",
+  "titulo": "Leilão de Casa - Paiol Velho - Santana de Parnaíba/SP cod: 207089 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/santana-de-parnaiba/paiol-velho/rua-lisboa-130/33748-207089",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/08/0c248514d9ef1a05e0690ddc25456e7f.pdf",
+      "label": "Edital de venda",
+      "filename": "0c248514d9ef1a05e0690ddc25456e7f.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:14:11"
+}

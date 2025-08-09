@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33752",
+  "codigo_zuk": "33945",
+  "product_id": "207134",
+  "preco": "634079.15",
+  "tipo_imovel": "Terreno",
+  "uf": "SP",
+  "cidade": "Guararema",
+  "bairro": "Chácaras Guanabara",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Terreno - Chácaras Guanabara - Guararema/SP cod: 207134 | Zuk",
+  "endereco_completo": "Rua Dinamarca , 515",
+  "url": "https://www.portalzuk.com.br/imovel/sp/guararema/chacaras-guanabara/rua-dinamarca-515/33752-207134",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/08/09029821a241f1a3cdcfc6ff350fcbc2.pdf",
+      "label": "Edital de venda",
+      "filename": "09029821a241f1a3cdcfc6ff350fcbc2.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:16:16"
+}

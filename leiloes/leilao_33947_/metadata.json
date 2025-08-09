@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33753",
+  "codigo_zuk": "33947",
+  "product_id": "207135",
+  "preco": "1978939.45",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Americana",
+  "bairro": "Centro",
+  "comitente": "Banco Daycoval S/A",
+  "titulo": "Leilão de Casa - Centro - Americana/SP cod: 207135 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/americana/centro/rua-sete-de-setembro-1010-e-1012/33753-207135",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacao.portalzuk.com.br/I33947lote001edital.pdf?Expires=1759720549&Signature=yHYhO4CsHcebUbj~Eoku2wRNJzKiL5kLZPPBfLdK~O5~vl925YgwC8vYGDnGEvItefP1joeQY5Vc4Ng0Ulnuy8DICBpwpwxuK2DfaEDacGYiRQDq4iwuLniSvA5HsUtgCHh79htLmUAUUiG5zHZKYONmZqGtAi-zyF-Q1zk950fXN43ZqWtAakZyQgLAfIZyyY6q1bmse6aVnaUxSfbmaVb1gAmKWov0hm-kWA14mESD1XAfiT~eJuJ7q3lJt~GH6h8ErTzeCrShViD8BBP1L5h5q2e7QugivINZEOLYooi~m2~mE3HUWpSzP6qBnySeYJ4pCxnyyD5FWHe22XSa2Q__&Key-Pair-Id=K1KJP2R1YISZT",
+      "label": "Edital de Venda do Imóvel",
+      "filename": "I33947lote001edital.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:15:54"
+}

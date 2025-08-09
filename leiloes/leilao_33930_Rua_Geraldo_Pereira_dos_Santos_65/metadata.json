@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33736",
+  "codigo_zuk": "33930",
+  "product_id": "207063",
+  "preco": "218074.92",
+  "tipo_imovel": "Residencial / Comercial",
+  "uf": "SP",
+  "cidade": "Garça",
+  "bairro": "Jardim Mondrian",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Residencial / Comercial - Jardim Mondrian - Garça/SP cod: 207063 | Zuk",
+  "endereco_completo": "Rua Geraldo Pereira dos Santos, 65",
+  "url": "https://www.portalzuk.com.br/imovel/sp/garca/jardim-mondrian/rua-geraldo-pereira-dos-santos-65/33736-207063",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/af74dc15dbb1b5725bc1ca73bdb1b93f.pdf",
+      "label": "Edital de venda",
+      "filename": "af74dc15dbb1b5725bc1ca73bdb1b93f.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:36:56"
+}

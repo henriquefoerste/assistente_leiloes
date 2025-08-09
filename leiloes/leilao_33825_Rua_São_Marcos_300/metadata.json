@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33623",
+  "codigo_zuk": "33825",
+  "product_id": "206317",
+  "preco": "466382.89",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Porto Feliz",
+  "bairro": "São Francisco",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - São Francisco - Porto Feliz/SP cod: 206317 | Zuk",
+  "endereco_completo": "Rua São Marcos, 300",
+  "url": "https://www.portalzuk.com.br/imovel/sp/porto-feliz/sao-francisco/rua-sao-marcos-300/33623-206317",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/e2a5a92d26c67c01ef4e6b67c179719c.pdf",
+      "label": "Edital de venda",
+      "filename": "e2a5a92d26c67c01ef4e6b67c179719c.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:18:40"
+}

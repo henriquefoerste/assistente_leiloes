@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33629",
+  "codigo_zuk": "33831",
+  "product_id": "206324",
+  "preco": "258231.25",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Marília",
+  "bairro": "Palmital",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Palmital - Marília/SP cod: 206324 | Zuk",
+  "endereco_completo": "Rua Queiroz, 711",
+  "url": "https://www.portalzuk.com.br/imovel/sp/marilia/palmital/rua-queiroz-711/33629-206324",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/90a7e13ae486d94d728a27ff63a4e511.pdf",
+      "label": "Edital de venda",
+      "filename": "90a7e13ae486d94d728a27ff63a4e511.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:19:35"
+}

@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33599",
+  "codigo_zuk": "33801",
+  "product_id": "206238",
+  "preco": "180204.95",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Piqueri",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Piqueri - São Paulo/SP cod: 206238 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/piqueri/rua-coronel-bento-bicudo-1167/33599-206238",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/45ea978d15431c07010eee32a7177e6a.pdf",
+      "label": "Edital de venda",
+      "filename": "45ea978d15431c07010eee32a7177e6a.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:14:22"
+}

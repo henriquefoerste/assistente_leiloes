@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33559",
+  "codigo_zuk": "33763",
+  "product_id": "205921",
+  "preco": "1046291.69",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Santana de Parnaíba",
+  "bairro": "Morada do Sol",
+  "comitente": "Itaú Unibanco S/A ",
+  "titulo": "Leilão de Casa - Morada do Sol - Santana de Parnaíba/SP cod: 205921 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/santana-de-parnaiba/morada-do-sol/rua-santa-luiza-161/33559-205921",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacao.portalzuk.com.br/I33763lote001edital.pdf?Expires=1759721536&Signature=lC-Qod1VobFfewTebaWntc0cCuKX~yx-zgZQ1dVUKEGoDiHMdC~X7CU0RqqPtOJuByZ-t~Guz2EBI-pneHx3oDLctHLQg3YBS9o5Bcbr1ggHSLWirvkPyiwBST4oo7GA9SBah0H~HHohA2TQ18VRhMzFTV-21A1pmt9643qmb6w59qCP2nBF-wS48rUNOnIEOsZlHDwexVuhhxw481gY6e9ySunBF-nUfu~Ye7Cx58en8Su7-37GnRHrQwMOa0d-Q9Xb~CE8ikaL9nMPpy5IkFjvUW9b1BAecIe14oGZ3K7UMSFG4uibF-Tft6VEwJdN23ZygujtDxFPXSAT0TKTaQ__&Key-Pair-Id=K1KJP2R1YISZT",
+      "label": "Edital de Venda do Imóvel",
+      "filename": "I33763lote001edital.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:32:24"
+}

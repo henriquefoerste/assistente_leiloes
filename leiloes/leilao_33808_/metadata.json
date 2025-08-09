@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33607",
+  "codigo_zuk": "33808",
+  "product_id": "206265",
+  "preco": "75161",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "Guarulhos",
+  "bairro": "Parque Cecap",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Parque Cecap - Guarulhos/SP cod: 206265 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/guarulhos/parque-cecap/rua-professora-lucinda-bechelli-romano-85/33607-206265",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/5a25dd0970a81827dcfa129b9d103cf6.pdf",
+      "label": "Edital de venda",
+      "filename": "5a25dd0970a81827dcfa129b9d103cf6.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:16:27"
+}

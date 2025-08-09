@@ -1,0 +1,28 @@
+{
+  "leilao_id": "33561",
+  "codigo_zuk": "33766",
+  "product_id": "206578",
+  "preco": "267750.35",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Ribeirão Preto",
+  "bairro": "Campos Elíseos",
+  "comitente": "Banco Bradesco S/A",
+  "titulo": "Leilão de Casa - Campos Elíseos - Ribeirão Preto/SP cod: 206578 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/ribeirao-preto/campos-eliseos/travessa-mario-160/33561-206578",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/fac56ce1656dcc21b919db4894fe0081.pdf",
+      "label": "Edital de venda",
+      "filename": "fac56ce1656dcc21b919db4894fe0081.pdf"
+    },
+    {
+      "url": "https://documentacao.portalzuk.com.br/I33766lote004edital.pdf?Expires=1759721771&Signature=giGXYnvr4Nclfn81HyhizL7M4VWTANZDbTRHI3Pm1DIvMS0ktW6GJHulHcaDcgV5PbMn5Hj27mHetYO0NUfibiChcDWFcgiFgos1vvOM7n-LLWWobOa2XPJRRNMflGFJHO9n8ouQQDUzCXyEsKFlWmrafTudCdvbPV7~PeCu7XCBbmxTuj44ju5u~lcwqqnpp3wfKKjbp5c2M-jCnDZ~okQ~FoVOnyT8QIWQ3CskdXcmXqR1RGIk3areu3aohgcb1gGGjIlHugQKpivWEqGXmmr28rF8L0qpWDouIDXlPKuSwOviYSKOIOra~isfNMRu4SIu6XpskfnpLc2nwjfShg__&Key-Pair-Id=K1KJP2R1YISZT",
+      "label": "Edital de Venda do Imóvel",
+      "filename": "I33766lote004edital.pdf"
+    }
+  ],
+  "total_documentos": 2,
+  "data_extracao": "2025-08-06 00:36:19"
+}

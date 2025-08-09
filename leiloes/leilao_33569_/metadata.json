@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33349",
+  "codigo_zuk": "33569",
+  "product_id": "206955",
+  "preco": "769613.35",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Assis",
+  "bairro": "Centro",
+  "comitente": "Banco Santander Brasil S/A",
+  "titulo": "Leilão de Casa - Centro - Assis/SP cod: 206955 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/assis/centro/rua-angelo-bertoncini-720/33349-206955",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacao.portalzuk.com.br/I33569lote014edital.pdf?Expires=1759720516&Signature=OX~8nQ54x2YByD7XblzSe7LI9HS6ibG-5y9a6O9z8bJabZ3xTWPTypBgpImf-x~8baKUlW94YIGAlroCEWF416WNg-5ImtCgwSJ48g2igJb2VTxt4yUN5s7ZRJb1znqVn0SbPx-9r5QXtBZrKtKGHtTi7L0JI8NS8KoRnFGY~DUSGbzyQ6cauqim24ZhEX4CcwdpcnZdM4qKUkof1RXm50nXvn~c7xvayA-PvMG8Tht6W~xTSOxeaJXbFZSnjiUorHcZHXobgde~whLUTGTqJTZcSdZ1929tG4YtFEuSf~8iSdeTievUTT4bcQDdrUAHnQVDVeZ-Wpeadb3mIlbjhA__&Key-Pair-Id=K1KJP2R1YISZT",
+      "label": "Edital de Venda do Imóvel",
+      "filename": "I33569lote014edital.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:15:26"
+}

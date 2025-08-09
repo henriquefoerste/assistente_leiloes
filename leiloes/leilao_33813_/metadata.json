@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33612",
+  "codigo_zuk": "33813",
+  "product_id": "206274",
+  "preco": "254698.02",
+  "tipo_imovel": "Terreno",
+  "uf": "SP",
+  "cidade": "Guarujá",
+  "bairro": "Jardim Três Marias",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Terreno - Jardim Três Marias - Guarujá/SP cod: 206274 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/guaruja/jardim-tres-marias/rua-xvi-s-n%C2%BA/33612-206274",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/03ff28278437a7eff3daed5f7173f2e0.pdf",
+      "label": "Edital de venda",
+      "filename": "03ff28278437a7eff3daed5f7173f2e0.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:17:54"
+}

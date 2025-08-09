@@ -1,0 +1,6 @@
+faiss-cpu<2
+sentence-transformers
+pymupdf
+fastapi
+uvicorn
+pydantic

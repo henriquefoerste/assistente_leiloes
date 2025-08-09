@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33549",
+  "codigo_zuk": "33750",
+  "product_id": "205744",
+  "preco": "135000",
+  "tipo_imovel": "Loja",
+  "uf": "SP",
+  "cidade": "Matão",
+  "bairro": "Centro",
+  "comitente": "Banco Santander Brasil S/A",
+  "titulo": "Leilão de Loja - Centro - Matão/SP cod: 205744 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/matao/centro/rua-prudente-de-moraes-830/33549-205744",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/1987c9875ed51662ca02e10dba40d1a4.pdf",
+      "label": "Edital de venda",
+      "filename": "1987c9875ed51662ca02e10dba40d1a4.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:23:10"
+}

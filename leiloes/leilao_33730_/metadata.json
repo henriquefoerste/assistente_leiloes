@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33522",
+  "codigo_zuk": "33730",
+  "product_id": "205539",
+  "preco": "326590.84",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "Taubaté",
+  "bairro": "Granjas Santa Terezinha",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Granjas Santa Terezinha - Taubaté/SP cod: 205539 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/taubate/granjas-santa-terezinha/avenida-jose-bonifacio-moreira-1461/33522-205539",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/68eb4b2d8c70d4619fdaba3a22f00a53.pdf",
+      "label": "Edital de venda",
+      "filename": "68eb4b2d8c70d4619fdaba3a22f00a53.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:21:12"
+}

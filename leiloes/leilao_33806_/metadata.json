@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33605",
+  "codigo_zuk": "33806",
+  "product_id": "206258",
+  "preco": "238074.53",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Vila Lageado",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Vila Lageado - São Paulo/SP cod: 206258 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/vila-lageado/rua-eulo-maroni-170/33605-206258",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/d637df9c2a265e1c767c397594d9cb67.pdf",
+      "label": "Edital de venda",
+      "filename": "d637df9c2a265e1c767c397594d9cb67.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:34:29"
+}

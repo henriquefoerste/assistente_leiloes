@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33587",
+  "codigo_zuk": "33789",
+  "product_id": "206194",
+  "preco": "600000",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "São Paulo",
+  "bairro": "Vila Medeiros",
+  "comitente": "Outros Comitentes",
+  "titulo": "Leilão de Casa - Vila Medeiros - São Paulo/SP cod: 206194 | Zuk",
+  "endereco_completo": "Rua Neneca, 103",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sao-paulo/vila-medeiros/rua-neneca-103/33587-206194",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/08/6dfcae41771e170eaa864a915650aa08.pdf",
+      "label": "Edital de venda",
+      "filename": "6dfcae41771e170eaa864a915650aa08.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:28:11"
+}

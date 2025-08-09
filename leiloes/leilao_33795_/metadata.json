@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33593",
+  "codigo_zuk": "33795",
+  "product_id": "206207",
+  "preco": "103961.98",
+  "tipo_imovel": "Apartamento",
+  "uf": "SP",
+  "cidade": "Sumaré",
+  "bairro": "Jardim Santa Terezinha",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Apartamento - Jardim Santa Terezinha - Sumaré/SP cod: 206207 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/sumare/jardim-santa-terezinha/rua-sao-cosme-80/33593-206207",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/594d6f48515fa9d8874e025854012836.pdf",
+      "label": "Edital de venda",
+      "filename": "594d6f48515fa9d8874e025854012836.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:34:42"
+}

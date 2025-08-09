@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33624",
+  "codigo_zuk": "33826",
+  "product_id": "206318",
+  "preco": "183171.32",
+  "tipo_imovel": "Terreno",
+  "uf": "SP",
+  "cidade": "Monte Mor",
+  "bairro": "Parque Residencial São Clemente",
+  "comitente": "Outros Comitentes",
+  "titulo": "Leilão de Terreno - Parque Residencial São Clemente - Monte Mor/SP cod: 206318 | Zuk",
+  "endereco_completo": "",
+  "url": "https://www.portalzuk.com.br/imovel/sp/monte-mor/parque-residencial-sao-clemente/rua-santa-rita-de-cassia-s-n%C2%BA/33624-206318",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacao.portalzuk.com.br/I33826lote001edital.pdf?Expires=1759721354&Signature=cUhL8aZcJ3o0rMqcwanOtMPGFHzzeh4l6CL3abUBhVJfiag7s~Jvvo~HyMwJjJooKDpYVRfxAzzTtrsqFrjNben-SZDvE2tMRNhiUfGzrkdsAp2whedusQQiZeYODM7UQuvEZlEiZ4X3NaVtIe7MeE09Ol~977N3sogv57rsB-gc83drvnavOcgtOOHg2-JEP9jTR2ja7K88zGaGL2zUbpVxRb0hFVrKfPFv2OCLvtVdkNgmUOxQtK39j4MJkucMhyzToxHF4u2bR1l-dXl5XJqhYxHNaXJuHIFZed87xCSQA9V-DEkTJHuZ4Gwf6iJ9N37wO5m9gd97q69tdiYK0A__&Key-Pair-Id=K1KJP2R1YISZT",
+      "label": "Edital de Venda do Imóvel",
+      "filename": "I33826lote001edital.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:29:20"
+}

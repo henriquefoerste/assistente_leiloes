@@ -1,0 +1,23 @@
+{
+  "leilao_id": "33594",
+  "codigo_zuk": "33796",
+  "product_id": "206221",
+  "preco": "388045.84",
+  "tipo_imovel": "Casa",
+  "uf": "SP",
+  "cidade": "Caraguatatuba",
+  "bairro": "Balneário Recanto do Sol",
+  "comitente": "Tribunal de Justiça do Estado de São Paulo",
+  "titulo": "Leilão de Casa - Balneário Recanto do Sol - Caraguatatuba/SP cod: 206221 | Zuk",
+  "endereco_completo": "Avenida Alice Arouca, 167",
+  "url": "https://www.portalzuk.com.br/imovel/sp/caraguatatuba/balneario-recanto-do-sol/avenida-alice-arouca-167/33594-206221",
+  "documentos_pdf": [
+    {
+      "url": "https://documentacaoleilao.portalzuk.com.br/2025/07/42eb80ff1acfc7d0ed19716c170a7eb3.pdf",
+      "label": "Edital de venda",
+      "filename": "42eb80ff1acfc7d0ed19716c170a7eb3.pdf"
+    }
+  ],
+  "total_documentos": 1,
+  "data_extracao": "2025-08-06 00:35:21"
+}
