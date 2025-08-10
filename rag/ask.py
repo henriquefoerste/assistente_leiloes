@@ -1,17 +1,33 @@
 import faiss
 import pickle
-from sentence_transformers import SentenceTransformer
+import torch
+from transformers import AutoModel, AutoTokenizer
+import numpy as np
 
 INDEX_DIR = "index"
-MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+MODEL_NAME = "deepseek-ai/deepseek-coder-1.3b-base"
 
-def search(query, top_k=5):
-    model = SentenceTransformer(MODEL_NAME)
+# Carregar modelo e tokenizer globalmente (mais eficiente)
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+model = AutoModel.from_pretrained(MODEL_NAME)
+
+def get_embedding(text):
+    """Gera embedding usando DeepSeek"""
+    inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=512)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    # Usar mean pooling do último hidden state
+    embeddings = outputs.last_hidden_state.mean(dim=1)
+    return embeddings.numpy()
+
+def search(query, top_k=10):
     index = faiss.read_index(f"{INDEX_DIR}/faiss.index")
     with open(f"{INDEX_DIR}/chunks.pkl", "rb") as f:
         chunks = pickle.load(f)
-    query_vec = model.encode([query])
+    
+    query_vec = get_embedding(query)
     D, I = index.search(query_vec, top_k)
+    
     results = []
     for idx in I[0]:
         results.append(chunks[idx])

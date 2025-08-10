@@ -4,3 +4,7 @@ pymupdf
 fastapi
 uvicorn
 pydantic
+torch
+transformers
+accelerate
+numpy

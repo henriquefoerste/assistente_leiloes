@@ -3,12 +3,31 @@ import fitz  # PyMuPDF
 import faiss
 import pickle
 import json
-from sentence_transformers import SentenceTransformer
+import torch
+from transformers import AutoModel, AutoTokenizer
+import numpy as np
 
 DATA_DIR = "../leiloes"  # Diretório dos leilões coletados
 INDEX_DIR = "index"
-MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-EMBEDDING_SIZE = 384
+MODEL_NAME = "deepseek-ai/deepseek-coder-1.3b-base"
+
+def get_embedding(texts, model, tokenizer):
+    """Gera embeddings usando DeepSeek para uma lista de textos"""
+    embeddings = []
+    print(f"[INFO] Processando {len(texts)} textos...")
+    
+    for i, text in enumerate(texts):
+        if i % 100 == 0:  # Progress tracking
+            print(f"  - Processando {i+1}/{len(texts)}")
+            
+        inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=512)
+        with torch.no_grad():
+            outputs = model(**inputs)
+        # Usar mean pooling do último hidden state
+        embedding = outputs.last_hidden_state.mean(dim=1)
+        embeddings.append(embedding.numpy().flatten())
+    
+    return np.array(embeddings)
 
 def load_metadata(metadata_path):
     """Carrega metadados de um leilão."""
@@ -68,7 +87,18 @@ def main():
     
     # Carregar modelo de embeddings
     print("[INFO] Carregando modelo de embeddings...")
-    model = SentenceTransformer(MODEL_NAME)
+    tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+    model = AutoModel.from_pretrained(MODEL_NAME)
+    
+    # Descobrir o embedding size real
+    dummy_input = tokenizer("teste", return_tensors="pt")
+    with torch.no_grad():
+        dummy_output = model(**dummy_input)
+    actual_embedding_size = dummy_output.last_hidden_state.shape[-1]
+    print(f"[INFO] Embedding size detectado: {actual_embedding_size}")
+    
+    # Usar o embedding size real em vez da constante
+    embedding_size = actual_embedding_size
     
     all_chunks = []
     processed_leiloes = 0
@@ -119,11 +149,11 @@ def main():
     # Gerar embeddings
     print("[INFO] Gerando embeddings...")
     texts = [c["text"] for c in all_chunks]
-    vectors = model.encode(texts, show_progress_bar=True)
+    vectors = get_embedding(texts, model, tokenizer)
     
     # Criar índice FAISS
     print("[INFO] Criando índice FAISS...")
-    index = faiss.IndexFlatL2(EMBEDDING_SIZE)
+    index = faiss.IndexFlatL2(embedding_size)
     index.add(vectors)
     
     # Salvar arquivos
